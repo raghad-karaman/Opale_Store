@@ -38,3 +38,6 @@ __MACOSX
 .vs/Opale_Store_duzeltilmis (1)/v17/DocumentLayout.json
 .vs/slnx.sqlite
 .vs/VSWorkspaceState.json
+/.vs
+*.suo
+*.user

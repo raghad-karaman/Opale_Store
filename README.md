@@ -89,7 +89,7 @@ An **e-commerce web application** built with Laravel 11 (Turkish UI). The storef
 
 ```bash
 # 1) Clone the project
-git clone https://github.com/fatemalzahraa/Opale-Store.git
+git clone https://github.com/raghad-karaman/Opale-Store.git
 cd Opale-Store
 
 # 2) Install dependencies
@@ -346,7 +346,7 @@ Laravel 11 ile geliştirilmiş, Türkçe arayüzlü bir **e-ticaret web uygulama
 
 ```bash
 # 1) Projeyi indir
-git clone https://github.com/fatemalzahraa/Opale-Store.git
+git clone https://github.com/raghad-karaman/Opale-Store.git
 cd Opale-Store
 
 # 2) Bağımlılıkları kur
