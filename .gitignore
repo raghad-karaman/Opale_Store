@@ -1,0 +1,40 @@
+/.phpunit.cache
+/node_modules
+/vendor
+/public/build
+/public/hot
+/public/storage
+/storage/*.key
+/storage/pail
+/storage/framework/views/*.php
+.env
+.env.backup
+.env.production
+.phpactor.json
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/auth.json
+/.fleet
+/.idea
+/.nova
+/.vscode
+/.zed
+/.vagrant
+.DS_Store
+__MACOSX
+*.zip
+.vs/Opale_Store/FileContentIndex/1c0a1af6-73db-45b3-96f8-36209be801e0.vsidx
+.vs/Opale_Store/FileContentIndex/2d5fdd57-1dc2-4d8e-84a4-bfc0e48f73d5.vsidx
+.vs/Opale_Store/FileContentIndex/8d6641d8-01df-4c5d-959f-2e3ebc5da90c.vsidx
+.vs/Opale_Store/FileContentIndex/e42097cd-292f-4f39-9324-3ceb733e1e25.vsidx
+.vs/Opale_Store/v17/.wsuo
+.vs/Opale_Store/v17/DocumentLayout.backup.json
+.vs/Opale_Store/v17/DocumentLayout.json
+.vs/Opale_Store_duzeltilmis (1)/FileContentIndex/dd8f9dde-8794-4222-90df-d0bc370098b7.vsidx
+.vs/Opale_Store_duzeltilmis (1)/v17/.wsuo
+.vs/Opale_Store_duzeltilmis (1)/v17/DocumentLayout.json
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
